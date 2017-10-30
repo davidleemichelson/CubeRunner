@@ -5,7 +5,7 @@
 My first video game! Made in Unity, written with C#!
 
 ### Icon
-![alt text](https://raw.githubusercontent.com/davidleemichelson/CubeRunner/blob/master/Assets/Icon.png)
+![alt text](https://raw.githubusercontent.com/davidleemichelson/CubeRunner/master/Assets/Icon.png)
 
 ## Screenshots
 ### Menu
