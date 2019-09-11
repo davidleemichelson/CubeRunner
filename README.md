@@ -2,7 +2,7 @@
 
 ## About
 ### Description
-My first video game! Made in Unity, written with C#!
+My first video game! Made in Unity, written with C#! Hope you all like it.
 
 ### Icon
 Designed in Sketch
